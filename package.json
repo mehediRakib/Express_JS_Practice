@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.0.1"
+  },
+  "name": "express_js_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "��#\u0000E\u0000x\u0000p\u0000r\u0000e\u0000s\u0000s\u0000_\u0000J\u0000S\u0000_\u0000P\u0000r\u0000a\u0000c\u0000t\u0000i\u0000c\u0000e\u0000\r\u0000 \u0000#\u0000 \u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000"
+}
